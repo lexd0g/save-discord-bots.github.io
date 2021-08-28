@@ -1,4 +1,6 @@
-# Why Discord should not make the upcoming API changes that will block bots from being able to read message content.
+# Save Discord Bots
+
+## Why Discord should not make the upcoming API changes that will block bots from being able to read message content.
 
 ### **What Discord is doing:**  
 Discord is aiming to stop verified bots from being able to read message content, forcing bot developers to move to slash commands for interaction.
