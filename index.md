@@ -29,11 +29,11 @@ Consider including a message in your bots, linking this website. A good place fo
 Please take our feedback. This is going to break how many servers work and will probably end up driving away members and revenue from Discord as a platform.
 
 ### **Current guilds supporting this movement:**  
-[/r/iPod](https://discord.gg/ipod) (12,000 members)  
-[DankPods Community](https://discord.gg/dankpods) (22,000 members)  
+- [/r/iPod](https://discord.gg/ipod) (12,000 members)  
+- [DankPods Community](https://discord.gg/dankpods) (22,000 members)  
 
 ### **Current bots supporting this movement:**  
-[Sonnet](https://sonnet-discord.github.io)  
+- [Sonnet](https://sonnet-discord.github.io)  
 
 Are you a guild or bot owner and support this movement? Feel free to open a [pull request](https://github.com/save-discord-bots/save-discord-bots.github.io/pulls) on GitHub to add your guild/bot!  
 
